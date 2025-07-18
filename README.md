@@ -32,8 +32,8 @@ I'm currently focusing on Laravel-based backend development and exploring how to
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raflihaikal14&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflihaikal14&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhipo14&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhipo14&theme=radical" width="48%" />
 </p>
 
 ---
